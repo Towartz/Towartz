@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I'm Towartz a 14 years old, student and curious about how things work.</h3>
+<h3 align="center">I'm Towartz, this is a second account, i am a 14 years old, student and curious about how things work.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="civilZgo" /> </p>
 
@@ -38,13 +38,13 @@
  <br/>
  
 ### My stats
-  <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=civilZgo&show_icons=true&locale=en&layout=compact&theme=prussian" alt="civilZgo" /></div>
+  <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Towartz&show_icons=true&locale=en&layout=compact&theme=prussian" alt="Towartz" /></div>
 <br/>
 <br/>
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=civilZgo&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="civilZgo" /></div>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Towartz&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Towartz" /></div>
 <br/>
 <br/>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=civilZgo&show_icons=true&locale=en&theme=prussian" alt="civilZgo" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Towartz&show_icons=true&locale=en&theme=prussian" alt="Towartz" /></div>
 <br/>
 <br/>
 <br/>
@@ -59,7 +59,7 @@
 
 ### <details>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=civilZgo)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Towartz)
 ![Metrics](https://metrics.lecoq.io/civilZgo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details>
