@@ -3,10 +3,13 @@
 
 
 <h3 align="center">I'm Towartz, this is a second account, i am a 14 years old, student and curious about how things work.</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Towartz&label=Profile%20views&color=0e75b6&style=flat" alt="Towartz" /> </p>
 
 
+<a href="https://github.com/civilZgo"><img src="https://github.com/civilZgo.png?size=125" width="125" height="125"></a>
+----|
+[2nd account](https://github.com/civilZgo)
+civilZgo |
 <p align="center">
 
   <img src="https://cdn.donmai.us/original/a2/bc/__reiuji_utsuho_touhou_drawn_by_guuchama__a2bce6a6e5b21a789ba332b07ddb64b1.png" />
@@ -79,15 +82,10 @@
 - [`Lexmoon Team`](https://chat.whatsapp.com/LtrYP0b22L3KgR9bsXcDcF)
 - [`My other account Github`](https://github.com/civilZgo)
 # My Team
-- [`Boedzhanks`](https://github.com/shinoahiiraginime)
-- [`MiyaZb`](http://github.com/MiyaZb)
-- [`Wibu X-PLOIT`](https://github.com/GilangGanss)
-
-
-<a href="https://github.com/shinoahiiraginime"><img src="https://github.com/shinoahiiraginime.png?size=100" width="100" height="100"></a> | [![civilZgo](http://github.com/MiyaZb.png?size=100)](http://github.com/MiyaZb) | [![Wibu X-PLOIT](http://github.com/GilangGanss.png?size=100)](http://github.com/GilangGanss)
+<a href="https://github.com/shinoahiiraginime"><img src="https://github.com/exe.png?size=100" width="100" height="100"></a> | [![civilZgo](http://github.com/MiyaZb.png?size=100)](http://github.com/MiyaZb) | [![Wibu X-PLOIT](http://github.com/exe.png?size=100)](http://github.com/GilangGanss)
 ----|----|----
 [shinoahiiraginime](https://github.com/shinoahiiraginime) | [MiyaZb](http://github.com/MiyaZb) | [Wibu X-PLOIT](http://github.com/GilangGanss)
-Partner gw | Mika asuu| Gilang (temen gw)
+Partner gw | Mika (ank pungut)| Gilang
 
 
 
