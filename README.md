@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm Towartz, this is a second account, i am a 14 years old, student and curious about how things work.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="Towartz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Towartz&label=Profile%20views&color=0e75b6&style=flat" alt="Towartz" /> </p>
 
 
 <p align="center">
