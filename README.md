@@ -89,7 +89,7 @@ Partner gw | Mika (ank pungut)| Gilang
 
 # My Waifu (Arknights)
 [![`source`](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights)
-[![@0@#$82818](https://cdn.donmai.us/original/73/89/__andreana_arknights_drawn_by_beudelb__7389ed770ab8863c6da4cc2fac035b3c.jpg)](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknightsht)
+[![`@0@#$82818`](https://cdn.donmai.us/original/73/89/__andreana_arknights_drawn_by_beudelb__7389ed770ab8863c6da4cc2fac035b3c.jpg)](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights)
 - [`©copyright by civilZgo, 2021
 Test, test an, sampe bisa wkwkwkakaka`](https://github.com/civilZgo)
 
