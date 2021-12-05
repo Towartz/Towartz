@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Towartz&label=Profile%20views&color=0e75b6&style=flat" alt="Towartz" /> </p>
 
 
-<a href="https://github.com/civilZgo"><img src="https://github.com/civilZgo.png?size=125" width="125" height="125"></a>
+<a href="https://github.com/civilZgo"><img src="https://github.com/civilZgo.png?size=125" width="126" height="125"></a>
 ----|
 [2nd account](https://github.com/civilZgo)
 civilZgo |
