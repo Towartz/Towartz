@@ -83,6 +83,14 @@
 - [`MiyaZb`](http://github.com/MiyaZb)
 - [`Wibu X-PLOIT`](https://github.com/GilangGanss)
 
+
+<a href="https://github.com/shinoahiiraginime"><img src="https://github.com/shinoahiiraginime.png?size=100" width="100" height="100"></a> | [![civilZgo](http://github.com/MiyaZb.png?size=100)](http://github.com/MiyaZb) | [![Wibu X-PLOIT](http://github.com/GilangGanss.png?size=100)](http://github.com/GilangGanss)
+----|----|----
+[shinoahiiraginime](https://github.com/shinoahiiraginime) | [MiyaZb](http://github.com/MiyaZb) | [Wibu X-PLOIT](http://github.com/GilangGanss)
+Partner gw | Mika asuu| Gilang (temen gw)
+
+
+
 # My Waifu (Arknights)
 - [`source`](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
 ![IMG_20210827_154401](https://cdn.donmai.us/original/78/84/__mulberry_arknights_drawn_by_mcoco7__7884f2a9d54f00e4b08d909d5666562f.jpg)
@@ -92,4 +100,3 @@
 Test, test an, sampe bisa wkwkwkakaka`](https://github.com/civilZgo)
 
 
-</details>
