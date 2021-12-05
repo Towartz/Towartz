@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">I'm civilZgo a 14 years old, student and curious about how things work.</h3>
+<h3 align="center">I'm Towartz a 14 years old, student and curious about how things work.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=civilZgo&label=Profile%20views&color=0e75b6&style=flat" alt="civilZgo" /> </p>
 
@@ -77,6 +77,7 @@
 # About me
 - [`Chat Me On WhatsApp`](https://wa.me/6283162498175?"Hello)
 - [`Lexmoon Team`](https://chat.whatsapp.com/LtrYP0b22L3KgR9bsXcDcF)
+- [`My other account Github`](https://github.com/civilZgo)
 # My Team
 - [`Boedzhanks`](https://github.com/shinoahiiraginime)
 - [`MiyaZb`](http://github.com/MiyaZb)
