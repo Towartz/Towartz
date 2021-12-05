@@ -60,7 +60,7 @@
 ### <details>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Towartz)
-![Metrics](https://metrics.lecoq.io/civilZgo?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/Towartz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
 
 </details>
 
