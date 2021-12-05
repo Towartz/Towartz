@@ -6,16 +6,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Towartz&label=Profile%20views&color=0e75b6&style=flat" alt="Towartz" /> </p>
 
 
-<a href="https://github.com/civilZgo"><img src="https://github.com/civilZgo.png?size=125" width="126" height="125"></a>
+<a href="https://github.com/civilZgo"><img src="https://cdn.donmai.us/original/91/e6/__kal_tsit_and_mon3tr_arknights_drawn_by_xroxxro__91e6e5fc22bf9afcd8212e3fd54a0e6e.jpg?size=125" width="126" height="125"></a>
 ----|
 [2nd account](https://github.com/civilZgo)
 civilZgo |
-<p align="center">
 
-  <img src="https://cdn.donmai.us/original/a2/bc/__reiuji_utsuho_touhou_drawn_by_guuchama__a2bce6a6e5b21a789ba332b07ddb64b1.png" />
-
-</p>
-
+[![???](https://cdn.donmai.us/original/a2/bc/__reiuji_utsuho_touhou_drawn_by_guuchama__a2bce6a6e5b21a789ba332b07ddb64b1.png)](https://wa.me/6283162498175?text=error?+write+the+bugs+:+...)
 
 # Arknights animation
 [![Arknights](https://github.com/civilZgo/civilZgo/blob/main/profile.gif)](https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights)
